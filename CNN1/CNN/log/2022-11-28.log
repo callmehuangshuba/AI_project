@@ -1,0 +1,136 @@
+训练时间：2022-11-28 16:34:31.063583
+(Iteration 1 / 10) loss: 2.673379
+(Epoch 0/1) train acc: 0.0000; val_acc: 0.2500
+(Epoch 1/1) train acc: 0.0000; val_acc: 0.0000
+best val :0.25
+训练时间：2022-11-28 16:51:05.763920
+(Iteration 1 / 250) loss: 2.304918
+(Epoch 0/5) train acc: 0.2500; val_acc: 0.0000
+训练时间：2022-11-28 16:58:06.078691
+(Iteration 1 / 100) loss: 2.304738
+(Epoch 0/2) train acc: 0.2500; val_acc: 0.0000
+训练时间：2022-11-28 17:00:28.927694
+(Iteration 1 / 250) loss: 2.304888
+(Epoch 0/2) train acc: 0.0000; val_acc: 0.2500
+(Iteration 11 / 250) loss: 2.128126
+(Iteration 21 / 250) loss: 2.431324
+(Iteration 31 / 250) loss: 2.502803
+(Iteration 41 / 250) loss: 2.157266
+(Iteration 51 / 250) loss: 2.190327
+(Iteration 61 / 250) loss: 2.351497
+(Iteration 71 / 250) loss: 2.303204
+(Iteration 81 / 250) loss: 2.798066
+(Iteration 91 / 250) loss: 2.142546
+(Iteration 101 / 250) loss: 2.161793
+(Iteration 111 / 250) loss: 2.093772
+(Iteration 121 / 250) loss: 2.339537
+(Epoch 1/2) train acc: 0.0000; val_acc: 0.2500
+(Iteration 131 / 250) loss: 2.327391
+(Iteration 141 / 250) loss: 1.831816
+(Iteration 151 / 250) loss: 2.334707
+(Iteration 161 / 250) loss: 2.329031
+(Iteration 171 / 250) loss: 2.340093
+(Iteration 181 / 250) loss: 2.333998
+(Iteration 191 / 250) loss: 2.336711
+(Iteration 201 / 250) loss: 2.347520
+(Iteration 211 / 250) loss: 2.339015
+(Iteration 221 / 250) loss: 2.331595
+(Iteration 231 / 250) loss: 2.344507
+(Iteration 241 / 250) loss: 2.321031
+(Epoch 2/2) train acc: 0.2500; val_acc: 0.0000
+best val :0.25
+训练时间：2022-11-28 20:46:33.814524
+(Iteration 1 / 125) loss: 2.304455
+(Epoch 0/1) train acc: 0.0000; val_acc: 0.0000
+训练时间：2022-11-28 20:47:15.350776
+(Iteration 1 / 250) loss: 2.305021
+(Epoch 0/2) train acc: 0.0000; val_acc: 0.0000
+(Iteration 11 / 250) loss: 2.352095
+(Iteration 21 / 250) loss: 2.049987
+(Iteration 31 / 250) loss: 2.343634
+(Iteration 41 / 250) loss: 2.489425
+(Iteration 51 / 250) loss: 2.248423
+(Iteration 61 / 250) loss: 2.458240
+(Iteration 71 / 250) loss: 2.849772
+训练时间：2022-11-28 20:53:22.023333
+(Iteration 1 / 625) loss: 2.304827
+(Epoch 0/5) train acc: 0.0000; val_acc: 0.2500
+(Iteration 11 / 625) loss: 2.316005
+(Iteration 21 / 625) loss: 2.571985
+(Iteration 31 / 625) loss: 2.181679
+(Iteration 41 / 625) loss: 4.135801
+(Iteration 51 / 625) loss: 2.134534
+(Iteration 61 / 625) loss: 2.255361
+(Iteration 71 / 625) loss: 2.155694
+(Iteration 81 / 625) loss: 2.360201
+(Iteration 91 / 625) loss: 1.635514
+(Iteration 101 / 625) loss: 1.796843
+(Iteration 111 / 625) loss: 2.330188
+(Iteration 121 / 625) loss: 2.081747
+(Epoch 1/5) train acc: 0.0000; val_acc: 0.0000
+(Iteration 131 / 625) loss: 2.205370
+(Iteration 141 / 625) loss: 2.356431
+(Iteration 151 / 625) loss: 2.205725
+(Iteration 161 / 625) loss: 2.910895
+(Iteration 171 / 625) loss: 2.277209
+(Iteration 181 / 625) loss: 2.322198
+(Iteration 191 / 625) loss: 1.917652
+(Iteration 201 / 625) loss: 2.318644
+(Iteration 211 / 625) loss: 2.329644
+(Iteration 221 / 625) loss: 2.192818
+(Iteration 231 / 625) loss: 2.206832
+(Iteration 241 / 625) loss: 2.389387
+(Epoch 2/5) train acc: 0.0000; val_acc: 0.2500
+(Iteration 251 / 625) loss: 2.329232
+(Iteration 261 / 625) loss: 2.270890
+(Iteration 271 / 625) loss: 1.826060
+(Iteration 281 / 625) loss: 2.084794
+(Iteration 291 / 625) loss: 2.321521
+(Iteration 301 / 625) loss: 2.358349
+(Iteration 311 / 625) loss: 2.336318
+(Iteration 321 / 625) loss: 2.212393
+(Iteration 331 / 625) loss: 2.331611
+(Iteration 341 / 625) loss: 2.098667
+(Iteration 351 / 625) loss: 2.281758
+(Iteration 361 / 625) loss: 2.311632
+(Iteration 371 / 625) loss: 2.403942
+(Epoch 3/5) train acc: 0.0000; val_acc: 0.5000
+(Iteration 381 / 625) loss: 2.186919
+(Iteration 391 / 625) loss: 2.174937
+(Iteration 401 / 625) loss: 2.327459
+(Iteration 411 / 625) loss: 1.922174
+(Iteration 421 / 625) loss: 2.190379
+(Iteration 431 / 625) loss: 2.158452
+(Iteration 441 / 625) loss: 2.310506
+(Iteration 451 / 625) loss: 2.200810
+(Iteration 461 / 625) loss: 2.301786
+(Iteration 471 / 625) loss: 2.303934
+(Iteration 481 / 625) loss: 2.275748
+(Iteration 491 / 625) loss: 2.326532
+(Epoch 4/5) train acc: 0.2500; val_acc: 0.0000
+(Iteration 501 / 625) loss: 2.348956
+(Iteration 511 / 625) loss: 1.886751
+(Iteration 521 / 625) loss: 2.693742
+(Iteration 531 / 625) loss: 1.952181
+(Iteration 541 / 625) loss: 2.311795
+(Iteration 551 / 625) loss: 2.178809
+(Iteration 561 / 625) loss: 2.442744
+(Iteration 571 / 625) loss: 2.235465
+(Iteration 581 / 625) loss: 2.367795
+(Iteration 591 / 625) loss: 2.347114
+(Iteration 601 / 625) loss: 2.329163
+(Iteration 611 / 625) loss: 2.218616
+(Iteration 621 / 625) loss: 2.317378
+(Epoch 5/5) train acc: 0.0000; val_acc: 0.2500
+best val :0.5
+训练时间：2022-11-28 21:59:35.338106
+训练时间：2022-11-28 22:01:52.918209
+(Iteration 1 / 50) loss: 2.304566
+(Epoch 0/2) train acc: 0.0000; val_acc: 0.2500
+(Iteration 11 / 50) loss: 2.163094
+(Iteration 21 / 50) loss: 1.998953
+(Epoch 1/2) train acc: 0.0000; val_acc: 0.0000
+(Iteration 31 / 50) loss: 2.082200
+(Iteration 41 / 50) loss: 1.655785
+(Epoch 2/2) train acc: 0.2500; val_acc: 0.7500
+best val :0.75
